@@ -1,0 +1,17 @@
+  body {
+      display: flex;
+      min-height: 100vh;
+      flex-direction: column;
+      background-repeat: no-repeat;
+      background-size: cover;
+      
+      background-image: url('https://ui-ex.com/images/mountains-vector-cartoony-1.png');
+  }
+
+  main {
+      flex: 1 0 auto;
+  }
+  
+  #coolBackground{
+      width:100%;
+  }
